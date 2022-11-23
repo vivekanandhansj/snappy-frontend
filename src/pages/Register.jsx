@@ -85,7 +85,7 @@ const handleChange = (event) =>{setValues({...values, [event.target.name]: event
         <form onSubmit={(event) => handleSubmit(event)}>
           <div className="brand">
             <img src={logo} alt="logo" />
-            <h1>kutty</h1>
+            <h1>Snappy</h1>
           </div>
           <input
             type="text"
