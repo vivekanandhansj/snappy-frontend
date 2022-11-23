@@ -23,7 +23,7 @@ const Contacts = ({ contacts, currentUser, changeChat }) => {
         <Container>
           <div className="brand">
             <img src={logo} alt="logo" />
-            <h3>kutty</h3>
+            <h3>Snappy</h3>
           </div>
           <div className="contacts">
             {contacts.map((contact, index) => {
