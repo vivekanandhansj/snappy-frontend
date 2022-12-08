@@ -1,4 +1,4 @@
-export const host = "https://vivek-snappy.herokuapp.com";
+export const host = "https://snappychat.vercel.app";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 
