@@ -1,4 +1,4 @@
-export const host = "https://snappychat.vercel.app";
+export const host = "https://snappy-chat-azsfxrot7-vivekanandhansj.vercel.app";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 
